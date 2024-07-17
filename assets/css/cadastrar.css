@@ -25,7 +25,7 @@ fieldset {
     margin-bottom: 20px;
 }
 
-.form-div{
+.formulario{
     display: flex;
     border-radius: 5%;
     justify-content: center;
@@ -57,7 +57,7 @@ fieldset {
 }
 
 @media only screen and (max-width: 574px) {
-    .form-div{
+    .formulario{
         display: flex;
         border: none;
         border-radius: 0px;
